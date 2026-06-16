@@ -26,6 +26,12 @@
     },
     {
       "path": "./tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/grocery/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/grocery/tsconfig.spec.json"
     }
   ]
 }
